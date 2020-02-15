@@ -24,6 +24,7 @@ echo("hola mundo ");
 print("<br>"); //salto de linea//
 echo("mi nombre es: ".$nombre. " y la edad es: " .$edad=15);
 
+$costo=5;
 
 
 
